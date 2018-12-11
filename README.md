@@ -30,4 +30,4 @@ Puedes ver la lista de [contribuidores](https://github.com/ManiaNetwork/MonkeyBo
 
 ## Licencia
 
-El proyecto está bajo una licencia MIT, puedes leer los detalles en el archivo [LICENSE.md](LICENSE.md).
+El proyecto está bajo una licencia MIT, puedes leer los detalles en el archivo [LICENSE](LICENSE).
